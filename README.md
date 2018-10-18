@@ -9,6 +9,6 @@ The explanation of how the circuit works, is annotated in the [schematic](https:
 ## Pictures
 ![3D render](https://raw.githubusercontent.com/FOSHSolderKits/MicroFlux/master/img/MicroFlux-brd.png)
 
-![board plot](https://raw.githubusercontent.com/FOSHSolderKits/MicroFlux/master/img/MicroFlux-brd.svg?raw=true)
+![board plot](https://raw.githubusercontent.com/FOSHSolderKits/MicroFlux/master/img/MicroFlux-brd.svg?sanitize=true)
 
-[![schematic plot](https://raw.githubusercontent.com/FOSHSolderKits/MicroFlux/master/img/MicroFlux.svg)](https://github.com/FOSHSolderKits/MicroFlux/blob/master/img/MicroFlux.pdf)
+[![schematic plot](https://raw.githubusercontent.com/FOSHSolderKits/MicroFlux/master/img/MicroFlux.svg?sanitize=true)](https://github.com/FOSHSolderKits/MicroFlux/blob/master/img/MicroFlux.pdf)
