@@ -12,4 +12,4 @@ R1 R2 ,2,"75","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","h
 R3 R4 ,2,"100k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","https://eu.mouser.com/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf","MFR-25FBF52-100K"
 R5 R6 R7 ,3,"1k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","https://eu.mouser.com/datasheet/2/447/Yageo%20LR_MFR_2013-467719.pdf","MFR-12FTF52-1K"
 RV1 ,1,"10k","Potentiometer_THT:Potentiometer_Alps_RK097_Dual_Horizontal_Switch","","RK0971221Z05"
-U1 ,1,"LM358","Package_DIP:DIP-8_W7.62mm_LongPads","http://www.ti.com/lit/ds/symlink/lm2904-n.pdf"
+U1 ,1,"AS358P-E1","Package_DIP:DIP-8_W7.62mm_LongPads","http://www.ti.com/lit/ds/symlink/lm2904-n.pdf","AS358P-E1"
